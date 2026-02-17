@@ -12,4 +12,4 @@ A console-based quiz application built in Python.
 
 ## How to run 
 1. Clone the repository
-2. Run: python quiz_app.py
+2. Run: python personality_quiz.py
